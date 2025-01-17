@@ -1,0 +1,4 @@
+runtime: nodejs20
+env_variables:
+          CANVAS_CONSUMER_SECRET: "6DF5CA803919FC820EC304C7E24C3FA665A24FDE11488CBABB9889253C2B4130"
+          IMAGE_URL: "https://login.salesforce.com/logos/Salesforce/Lightning/logo.png"
